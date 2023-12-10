@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oguzhan Simsek</h1>
 <h3 align="center">Passionate Junior Game Dev/Front End Engineer</h3>
-<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fcat-hacker-program-developer-with-laptop-ai-generated_56597315.htm&psig=AOvVaw3obOSNJ12aiMUsvpiKDqM6&ust=1702255351305000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDn_sLRg4MDFQAAAAAdAAAAABAw)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fcat-hacker-program-developer-with-laptop-ai-generated_56597315.htm&psig=AOvVaw3obOSNJ12aiMUsvpiKDqM6&ust=1702255351305000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDn_sLRg4MDFQAAAAAdAAAAABAw)">
+<img align="right" alt="Coding" width="400" src="/1zd330.jpg">
 - 🔭 I’m currently working on **Godot 2D Survivors/Slay the Spire Clone**
 
 - 🌱 I’m currently learning **Unreal Engine 5**
